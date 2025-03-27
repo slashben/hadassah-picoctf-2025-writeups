@@ -23,7 +23,7 @@ Here is the list of challenges we are solving and the student who solves.
 
 ## Web exploitation
 
-* [Example](writeups/web-exploitation/dont-use-client-side/) - [Benyamin Hirschberg](https://github.com/slashben)
+* [WebDecode](https://play.picoctf.org/practice/challenge/427?category=1&difficulty=1&originalEvent=73&page=1&solved=0) - [Ilya Kirshtein](https://github.com/Ilyaki322)
 
 ## Cryptography
 
