@@ -24,6 +24,7 @@ Here is the list of challenges we are solving and the student who solves.
 ## Web exploitation
 
 * [Example](writeups/web-exploitation/dont-use-client-side/) - [Benyamin Hirschberg](https://github.com/slashben)
+* [Bookmarklet](https://play.picoctf.org/practice/challenge/406?category=1&page=1) - [sagi seri](https://github.com/sagiseri)
 
 ## Cryptography
 
@@ -32,3 +33,6 @@ Here is the list of challenges we are solving and the student who solves.
 ## Binary Exploitation
 
 * List entry
+
+
+        
