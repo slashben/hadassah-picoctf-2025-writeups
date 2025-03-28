@@ -24,7 +24,7 @@ Here is the list of challenges we are solving and the student who solves.
 ## Web exploitation
 
 * [Example](writeups/web-exploitation/dont-use-client-side/) - [Benyamin Hirschberg](https://github.com/slashben)
-
+  [Cookies](https://play.picoctf.org/practice/challenge/173?category=1&page=1) - [Ishay Heller](https://github.com/ishay-code)
 ## Cryptography
 
 * List entry
