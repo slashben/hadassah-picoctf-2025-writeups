@@ -23,6 +23,7 @@ Here is the list of challenges we are solving and the student who solves.
 
 ## Web exploitation
 
+* [WebDecode](https://play.picoctf.org/practice/challenge/427?category=1&difficulty=1&originalEvent=73&page=1&solved=0) - [Ilya Kirshtein](https://github.com/Ilyaki322)
 * [Example](writeups/web-exploitation/dont-use-client-side/) - [Benyamin Hirschberg](https://github.com/slashben)
 * [ssti1](https://play.picoctf.org/practice/challenge/492?category=1&originalEvent=74&page=1) - [Tzach Hondiashvili](https://github.com/tzach-hondiashvili)
 * [Cookie Monster Secret Recipe](https://play.picoctf.org/practice/challenge/469?category=1&difficulty=1&originalEvent=74&page=1) - [Daniel Dalal](https://github.com/DD309)
