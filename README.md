@@ -23,6 +23,7 @@ Here is the list of challenges we are solving and the student who solves.
 
 ## Web exploitation
 
+* [Unminify](https://play.picoctf.org/practice/challenge/426?category=1&difficulty=1&page=1) - [Or Shain](https://github.com/orshain)
 * [Bookmarklet](https://play.picoctf.org/practice/challenge/406?category=1&page=1) - [sagi seri](https://github.com/sagiseri)
 * [Cookies](https://play.picoctf.org/practice/challenge/173?category=1&page=1) - [Ishay Heller](https://github.com/ishay-code)
 * [WebDecode](https://play.picoctf.org/practice/challenge/427?category=1&difficulty=1&originalEvent=73&page=1&solved=0) - [Ilya Kirshtein](https://github.com/Ilyaki322)
