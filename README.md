@@ -24,7 +24,7 @@ Here is the list of challenges we are solving and the student who solves.
 ## Web exploitation
 
 * [WebDecode](https://play.picoctf.org/practice/challenge/427?category=1&difficulty=1&originalEvent=73&page=1&solved=0) - [Ilya Kirshtein](https://github.com/Ilyaki322)
-* [Example](writeups/web-exploitation/dont-use-client-side/) - [Benyamin Hirschberg](https://github.com/slashben)
+* [head-dump](https://play.picoctf.org/practice/challenge/476?category=1&originalEvent=74&page=1) - [Dima Nikonov](https://github.com/DimonFiend)
 * [ssti1](https://play.picoctf.org/practice/challenge/492?category=1&originalEvent=74&page=1) - [Tzach Hondiashvili](https://github.com/tzach-hondiashvili)
 * [Cookie Monster Secret Recipe](https://play.picoctf.org/practice/challenge/469?category=1&difficulty=1&originalEvent=74&page=1) - [Daniel Dalal](https://github.com/DD309)
 * [where are the robots](https://play.picoctf.org/practice/challenge/4?category=1&page=2) - [Lara Duek](https://github.com/LaraDuek)
