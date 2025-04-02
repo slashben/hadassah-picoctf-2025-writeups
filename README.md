@@ -23,6 +23,7 @@ Here is the list of challenges we are solving and the student who solves.
 
 ## Web exploitation
 
+* [Irish-Name-Repo 3](https://play.picoctf.org/practice/challenge/8?category=1&difficulty=2&page=4) - [Roni Cohen](https://github.com/ronicohe)
 * [Unminify](https://play.picoctf.org/practice/challenge/426?category=1&difficulty=1&page=1) - [Or Shain](https://github.com/orshain)
 * [Bookmarklet](https://play.picoctf.org/practice/challenge/406?category=1&page=1) - [sagi seri](https://github.com/sagiseri)
 * [Cookies](https://play.picoctf.org/practice/challenge/173?category=1&page=1) - [Ishay Heller](https://github.com/ishay-code)
