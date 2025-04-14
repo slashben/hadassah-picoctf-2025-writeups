@@ -35,6 +35,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Local Authority](https://play.picoctf.org/practice/challenge/278?category=1&page=1 ) - [Benny Beer](https://github.com/bennyBeer)
 * [n0s4n1ty](https://play.picoctf.org/practice/challenge/482?category=1&page=1) - [Or Meir Tsarfati](https://github.com/OrMeirDev)
 * [Scavenger Hunt](https://play.picoctf.org/practice/challenge/161?category=1&difficulty=1&page=2) - [Alex Zhivotovsky](https://github.com/alexzhivo)
+* [logon](https://play.picoctf.org/practice/challenge/46?category=1&page=2) - [Ibraheem Awad](https://github.com/Ibraheem-Awad)
 
 ## Cryptography
 
