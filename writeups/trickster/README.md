@@ -36,13 +36,16 @@ The goal was to trick the server into accepting a file that could **execute code
 This passed the filters and was **executed as PHP** on the server.
 
 Accessing: http://atlas.picoctf.net:63035/uploads/webshell.png.php brought up the working shell:
+
 ![img3](./img/img3.png)
 
 Running `ls -a /` Revealed a /challenge directory, but access was denied.
 However, exploring: `ls -a /var/www/html` I discovered a suspiciously named file:
+
 ![img4](./img/img4.png)
 
 Using `cat /var/www/html/MQZ*` I retrieved the flag:
+
 # 🎉 Flag
 **picoCTF{c3rt!fi3d_Xp3rt_tr1ckst3r_d3ac625b}**
 
