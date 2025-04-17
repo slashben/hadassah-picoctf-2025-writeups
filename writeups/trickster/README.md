@@ -30,7 +30,7 @@ The goal was to trick the server into accepting a file that could **execute code
 
 1. The upload filter accepts files if the name **contains `.png`**
 2. The file must pass a **PNG magic byte check**
-3. 3. I created a webshell and saved it as: `webshell.png.php`
+3. **I created a webshell, which can be viewed [here](./webshell.png.php).**
 
 
 This passed the filters and was **executed as PHP** on the server.
