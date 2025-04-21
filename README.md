@@ -35,6 +35,13 @@ Here is the list of challenges we are solving and the student who solves.
 * [Local Authority](https://play.picoctf.org/practice/challenge/278?category=1&page=1 ) - [Benny Beer](https://github.com/bennyBeer)
 * [n0s4n1ty](https://play.picoctf.org/practice/challenge/482?category=1&page=1) - [Or Meir Tsarfati](https://github.com/OrMeirDev)
 * [Scavenger Hunt](https://play.picoctf.org/practice/challenge/161?category=1&difficulty=1&page=2) - [Alex Zhivotovsky](https://github.com/alexzhivo)
+* [Most Cookies](https://play.picoctf.org/practice/challenge/177?category=1&difficulty=2&page=2) - [Idit Halevi](https://github.com/iditha)
+* [where are the robots](https://play.picoctf.org/practice/challenge/4?category=1&page=2) - [mousa yousef](https://github.com/MousaYou)
+* [3v@l](https://play.picoctf.org/practice/challenge/484?category=1&difficulty=2&originalEvent=74&page=1) - [yarden_gahan](https://github.com/yardengahan)
+* [GET aHEAD](https://play.picoctf.org/practice/challenge/132?category=1&difficulty=1&page=2&search=&solved=0) - [Nicole Kazantsev](https://github.com/NicoleKaz)
+* [Trickster](https://play.picoctf.org/practice/challenge/445?category=1&page=2&search=) - [Tali Kraskin](https://github.com/Talikra)
+* [logon](https://play.picoctf.org/practice/challenge/46?category=1&page=2) - [Ibraheem Awad](https://github.com/Ibraheem-Awad)
+* [Includes](https://play.picoctf.org/practice/challenge/274?category=1&page=1)- [Raneen Salem](https://github.com/raneensalem)
 * [SOAP](https://play.picoctf.org/practice/challenge/376?category=1&page=3) - [Yousef Dweik](https://github.com/NightKing142)
 
 ## Cryptography
