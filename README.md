@@ -39,6 +39,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [where are the robots](https://play.picoctf.org/practice/challenge/4?category=1&page=2) - [mousa yousef](https://github.com/MousaYou)
 * [3v@l](https://play.picoctf.org/practice/challenge/484?category=1&difficulty=2&originalEvent=74&page=1) - [yarden_gahan](https://github.com/yardengahan)
 * [GET aHEAD](https://play.picoctf.org/practice/challenge/132?category=1&difficulty=1&page=2&search=&solved=0) - [Nicole Kazantsev](https://github.com/NicoleKaz)
+* [Trickster](https://play.picoctf.org/practice/challenge/445?category=1&page=2&search=) - [Tali Kraskin](https://github.com/Talikra)
 
 ## Cryptography
 
