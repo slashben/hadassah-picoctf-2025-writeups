@@ -42,6 +42,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Trickster](https://play.picoctf.org/practice/challenge/445?category=1&page=2&search=) - [Tali Kraskin](https://github.com/Talikra)
 * [logon](https://play.picoctf.org/practice/challenge/46?category=1&page=2) - [Ibraheem Awad](https://github.com/Ibraheem-Awad)
 * [Includes](https://play.picoctf.org/practice/challenge/274?category=1&page=1)- [Raneen Salem](https://github.com/raneensalem)
+* [SOAP](https://play.picoctf.org/practice/challenge/376?category=1&page=3) - [Yousef Dweik](https://github.com/NightKing142)
 
 ## Cryptography
 
