@@ -36,6 +36,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [n0s4n1ty](https://play.picoctf.org/practice/challenge/482?category=1&page=1) - [Or Meir Tsarfati](https://github.com/OrMeirDev)
 * [Scavenger Hunt](https://play.picoctf.org/practice/challenge/161?category=1&difficulty=1&page=2) - [Alex Zhivotovsky](https://github.com/alexzhivo)
 * [Most Cookies](https://play.picoctf.org/practice/challenge/177?category=1&difficulty=2&page=2) - [Idit Halevi](https://github.com/iditha)
+* [where are the robots](https://play.picoctf.org/practice/challenge/4?category=1&page=2) - [mousa yousef](https://github.com/MousaYou)
 
 ## Cryptography
 
