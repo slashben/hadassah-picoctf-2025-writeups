@@ -23,18 +23,34 @@ Here is the list of challenges we are solving and the student who solves.
 
 ## Web exploitation
 
-* [Example](writeups/web-exploitation/dont-use-client-side/) - [Benyamin Hirschberg](https://github.com/slashben)
+* [Irish-Name-Repo 3](https://play.picoctf.org/practice/challenge/8?category=1&difficulty=2&page=4) - [Roni Cohen](https://github.com/ronicohe)
+* [Unminify](https://play.picoctf.org/practice/challenge/426?category=1&difficulty=1&page=1) - [Or Shain](https://github.com/orshain)
+* [Bookmarklet](https://play.picoctf.org/practice/challenge/406?category=1&page=1) - [sagi seri](https://github.com/sagiseri)
+* [Cookies](https://play.picoctf.org/practice/challenge/173?category=1&page=1) - [Ishay Heller](https://github.com/ishay-code)
+* [WebDecode](https://play.picoctf.org/practice/challenge/427?category=1&difficulty=1&originalEvent=73&page=1&solved=0) - [Ilya Kirshtein](https://github.com/Ilyaki322)
+* [head-dump](https://play.picoctf.org/practice/challenge/476?category=1&originalEvent=74&page=1) - [Dima Nikonov](https://github.com/DimonFiend)
 * [ssti1](https://play.picoctf.org/practice/challenge/492?category=1&originalEvent=74&page=1) - [Tzach Hondiashvili](https://github.com/tzach-hondiashvili)
 * [Cookie Monster Secret Recipe](https://play.picoctf.org/practice/challenge/469?category=1&difficulty=1&originalEvent=74&page=1) - [Daniel Dalal](https://github.com/DD309)
-* [where are the robots](https://play.picoctf.org/practice/challenge/4?category=1&page=2) - [Lara Duek](https://github.com/LaraDuek)
+* [Insp3ct0r](https://play.picoctf.org/practice/challenge/18?category=1&difficulty=1&originalEvent=1&page=1) - [Lara Duek](https://github.com/LaraDuek)
 * [Local Authority](https://play.picoctf.org/practice/challenge/278?category=1&page=1 ) - [Benny Beer](https://github.com/bennyBeer)
 * [n0s4n1ty](https://play.picoctf.org/practice/challenge/482?category=1&page=1) - [Or Meir Tsarfati](https://github.com/OrMeirDev)
 * [Scavenger Hunt](https://play.picoctf.org/practice/challenge/161?category=1&difficulty=1&page=2) - [Alex Zhivotovsky](https://github.com/alexzhivo)
+* [Most Cookies](https://play.picoctf.org/practice/challenge/177?category=1&difficulty=2&page=2) - [Idit Halevi](https://github.com/iditha)
+* [where are the robots](https://play.picoctf.org/practice/challenge/4?category=1&page=2) - [mousa yousef](https://github.com/MousaYou)
+* [3v@l](https://play.picoctf.org/practice/challenge/484?category=1&difficulty=2&originalEvent=74&page=1) - [yarden_gahan](https://github.com/yardengahan)
+* [GET aHEAD](https://play.picoctf.org/practice/challenge/132?category=1&difficulty=1&page=2&search=&solved=0) - [Nicole Kazantsev](https://github.com/NicoleKaz)
+* [Trickster](https://play.picoctf.org/practice/challenge/445?category=1&page=2&search=) - [Tali Kraskin](https://github.com/Talikra)
+* [logon](https://play.picoctf.org/practice/challenge/46?category=1&page=2) - [Ibraheem Awad](https://github.com/Ibraheem-Awad)
+* [Includes](https://play.picoctf.org/practice/challenge/274?category=1&page=1)- [Raneen Salem](https://github.com/raneensalem)
+* [SOAP](https://play.picoctf.org/practice/challenge/376?category=1&page=3) - [Yousef Dweik](https://github.com/NightKing142)
 
 ## Cryptography
 
 * List entry
 * [john_pollard](https://play.picoctf.org/practice/challenge/6?category=2&difficulty=2&page=3) & [substitution0](https://play.picoctf.org/practice/challenge/307?category=2&difficulty=2&page=2) - [Tzach Hondiashvili](https://github.com/tzach-hondiashvili)
+* Guess My Cheese (Part 1) - [yarden_gahan](https://github.com/yardengahan)
+* [No Padding, No Problem](https://play.picoctf.org/practice/challenge/154?category=2&difficulty=2&page=2&search=) & [Dachshund Attacks](https://play.picoctf.org/practice/challenge/159?category=2&page=3&search=) - [Tali Kraskin](https://github.com/Talikra)
+* [Flags](https://play.picoctf.org/practice/challenge/31?category=2&difficulty=2&page=3) & [Mr. WorldWide](https://play.picoctf.org/practice/challenge/40?category=2&difficulty=2&page=3) - [Alex Zhivotovsky](https://github.com/alexzhivo)
 
 ## Binary Exploitation
 
