@@ -46,6 +46,8 @@ Here is the list of challenges we are solving and the student who solves.
 
 ## Cryptography
 
+* List entry
+* [john_pollard](https://play.picoctf.org/practice/challenge/6?category=2&difficulty=2&page=3) & [substitution0](https://play.picoctf.org/practice/challenge/307?category=2&difficulty=2&page=2) - [Tzach Hondiashvili](https://github.com/tzach-hondiashvili)
 * Guess My Cheese (Part 1) - [yarden_gahan](https://github.com/yardengahan)
 * [No Padding, No Problem](https://play.picoctf.org/practice/challenge/154?category=2&difficulty=2&page=2&search=) & [Dachshund Attacks](https://play.picoctf.org/practice/challenge/159?category=2&page=3&search=) - [Tali Kraskin](https://github.com/Talikra)
 * [Flags](https://play.picoctf.org/practice/challenge/31?category=2&difficulty=2&page=3) & [Mr. WorldWide](https://play.picoctf.org/practice/challenge/40?category=2&difficulty=2&page=3) - [Alex Zhivotovsky](https://github.com/alexzhivo)
