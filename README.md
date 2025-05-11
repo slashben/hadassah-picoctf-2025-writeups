@@ -41,7 +41,7 @@ Here is the list of challenges we are solving and the student who solves.
 
 ## Cryptography
 
-* List entry
+* Guess My Cheese (Part 1) - [yarden_gahan](https://github.com/yardengahan)
 
 ## Binary Exploitation
 
