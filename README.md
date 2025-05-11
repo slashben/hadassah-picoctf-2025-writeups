@@ -47,6 +47,7 @@ Here is the list of challenges we are solving and the student who solves.
 ## Cryptography
 
 * Guess My Cheese (Part 1) - [yarden_gahan](https://github.com/yardengahan)
+* [substitution2](https://play.picoctf.org/practice/challenge/309?category=2&difficulty=2&page=1) + [Mini RSA](https://play.picoctf.org/practice/challenge/188?category=2&difficulty=2&page=2) : Mousa Yousef
 
 ## Binary Exploitation
 
