@@ -34,7 +34,7 @@ Here is the list of challenges we are solving and the student who solves.
 ## Cryptography
 
 * List entry
-* [john_pollard]([https://play.picoctf.org/practice/challenge/492?category=1&originalEvent=74&page=1](https://play.picoctf.org/practice/challenge/6?category=2&difficulty=2&page=3)) & [substitution0](https://play.picoctf.org/practice/challenge/307?category=2&difficulty=2&page=2) - [Tzach Hondiashvili](https://github.com/tzach-hondiashvili)
+* [john_pollard](https://play.picoctf.org/practice/challenge/6?category=2&difficulty=2&page=3) & [substitution0](https://play.picoctf.org/practice/challenge/307?category=2&difficulty=2&page=2) - [Tzach Hondiashvili](https://github.com/tzach-hondiashvili)
 
 ## Binary Exploitation
 
