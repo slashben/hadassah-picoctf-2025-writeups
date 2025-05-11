@@ -47,6 +47,7 @@ Here is the list of challenges we are solving and the student who solves.
 ## Cryptography
 
 * Guess My Cheese (Part 1) - [yarden_gahan](https://github.com/yardengahan)
+* [Flags](https://play.picoctf.org/practice/challenge/31?category=2&difficulty=2&page=3) & [Mr. WorldWide](https://play.picoctf.org/practice/challenge/40?category=2&difficulty=2&page=3) - [Alex Zhivotovsky](https://github.com/alexzhivo)
 
 ## Binary Exploitation
 
