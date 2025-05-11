@@ -47,7 +47,8 @@ Here is the list of challenges we are solving and the student who solves.
 ## Cryptography
 
 * Guess My Cheese (Part 1) - [yarden_gahan](https://github.com/yardengahan)
-
+* [No Padding, No Problem](https://play.picoctf.org/practice/challenge/154?category=2&difficulty=2&page=2&search=) & [Dachshund Attacks](https://play.picoctf.org/practice/challenge/159?category=2&page=3&search=) - [Tali Kraskin](https://github.com/Talikra)
+* 
 ## Binary Exploitation
 
 * List entry
