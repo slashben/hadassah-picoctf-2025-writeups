@@ -35,7 +35,7 @@ Here is the list of challenges we are solving and the student who solves.
 
 ## Cryptography
 
-* List entry
+* * [substitution1](https://play.picoctf.org/practice/challenge/308?category=2&difficulty=2&page=1) & [transposition-trial](https://play.picoctf.org/practice/challenge/312?category=2&difficulty=2&page=1) - [Ishay Heller](https://github.com/ishay-code)
 
 ## Binary Exploitation
 
