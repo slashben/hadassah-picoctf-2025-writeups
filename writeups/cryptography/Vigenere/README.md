@@ -5,8 +5,11 @@ The link for the challenge: https://play.picoctf.org/practice/challenge/316?cate
 
 Start the challenge 
 
-We get a text file with:  
-![file](./img/file.png) 
+We get a text file with: 
+
+
+![file](./img/file.PNG) 
+
 
 In the challenge description we also get the key: "CYLAB"
 
@@ -17,7 +20,10 @@ recall how vigenere works:
 encrypts text by shifting each letter of the plaintext using a corresponding letter from a repeating keyword
 
 for example: with the key "vector"
-![example](./img/example.png)
+
+
+![example](./img/example.PNG)
+
 
 
 So we write a small python script to help us (file included).
