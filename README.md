@@ -46,7 +46,6 @@ Here is the list of challenges we are solving and the student who solves.
 
 ## Cryptography
 
-* List entry
 * [john_pollard](https://play.picoctf.org/practice/challenge/6?category=2&difficulty=2&page=3) & [substitution0](https://play.picoctf.org/practice/challenge/307?category=2&difficulty=2&page=2) - [Tzach Hondiashvili](https://github.com/tzach-hondiashvili)
 * Guess My Cheese (Part 1) - [yarden_gahan](https://github.com/yardengahan)
 * [substitution2](https://play.picoctf.org/practice/challenge/309?category=2&difficulty=2&page=1) + [Mini RSA](https://play.picoctf.org/practice/challenge/188?category=2&difficulty=2&page=2) : Mousa Yousef
@@ -54,6 +53,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Flags](https://play.picoctf.org/practice/challenge/31?category=2&difficulty=2&page=3) & [Mr. WorldWide](https://play.picoctf.org/practice/challenge/40?category=2&difficulty=2&page=3) - [Alex Zhivotovsky](https://github.com/alexzhivo)
 * [rotation](https://play.picoctf.org/practice/challenge/373?category=2&difficulty=2&page=1) & [Mind your Ps and Qs](https://play.picoctf.org/practice/challenge/162?category=2&difficulty=2&page=2) - [sagi seri](https://github.com/sagiseri)
 * [Pixelated](https://play.picoctf.org/practice/challenge/100?category=2&difficulty=2&page=3)& [morse-code](https://play.picoctf.org/practice/challenge/280?category=2&difficulty=2&page=2) - [Or Shain](https://github.com/orshain) 
+* [substitution1](https://play.picoctf.org/practice/challenge/308?category=2&difficulty=2&page=1) & [transposition-trial](https://play.picoctf.org/practice/challenge/312?category=2&difficulty=2&page=1) - [Ishay Heller](https://github.com/ishay-code)
 
 ## Binary Exploitation
 
