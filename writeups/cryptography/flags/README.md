@@ -5,9 +5,13 @@ Go to the link and you should see this:
 
 Click on the "Flags" and download the file **flag.png** <br>
 thats whats inside:
-![inspect css](./img/flag.png)
+![inspect css](./img/img2.png)
 
-Look on Googles website and look for these flags on Google Images:
+Search on Google's website and look for these flags decryption on Google Images:
+![decryption_map](./img/flag_letters.png)
+
+Attach each letter/number into each flag and you'll get the encrypted flag:
+![answer](./img/img3.png)
 
 Now you have the complete flag!
 ![solved](./img/img1.png)
