@@ -6,7 +6,7 @@ The link for the challenge: https://play.picoctf.org/practice/challenge/64?categ
 Start the challenge 
 
 We get a text file
-![file](./img/file.png) 
+![file](./img/file.PNG) 
  
 Based on the name of the challange we assume a Caesar cipher.
 
@@ -20,7 +20,7 @@ subtract the key from the cipher letter.
 
 So we build a small python script to run on all 26 possibilities (script attached)
 and we get:
-![result](./img/result.png)
+![result](./img/result.PNG)
 
 we see suspicious string saying crossing the rubicon, probably not coincidence.
 
