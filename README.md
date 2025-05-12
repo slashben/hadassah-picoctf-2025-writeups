@@ -54,6 +54,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [rotation](https://play.picoctf.org/practice/challenge/373?category=2&difficulty=2&page=1) & [Mind your Ps and Qs](https://play.picoctf.org/practice/challenge/162?category=2&difficulty=2&page=2) - [sagi seri](https://github.com/sagiseri)
 * [Pixelated](https://play.picoctf.org/practice/challenge/100?category=2&difficulty=2&page=3)& [morse-code](https://play.picoctf.org/practice/challenge/280?category=2&difficulty=2&page=2) - [Or Shain](https://github.com/orshain) 
 * [substitution1](https://play.picoctf.org/practice/challenge/308?category=2&difficulty=2&page=1) & [transposition-trial](https://play.picoctf.org/practice/challenge/312?category=2&difficulty=2&page=1) - [Ishay Heller](https://github.com/ishay-code)
+* [Vigenere](https://play.picoctf.org/practice/challenge/316?category=2&difficulty=2&page=1) & [caesar](https://play.picoctf.org/practice/challenge/64?category=2&difficulty=2&page=3) - [Ilya Kirshtein](https://github.com/Ilyaki322)
 
 ## Binary Exploitation
 
