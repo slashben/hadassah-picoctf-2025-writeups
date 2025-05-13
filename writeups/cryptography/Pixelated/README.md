@@ -11,16 +11,15 @@ You should see this page:
 
 ![challenge](./img/challenge1.png) 
  
-Download the images.
-![scrambled1](./img/scrambled1.png) 
- 
-![scrambled2](./img/scrambled2.png) 
+Download the images. <br>
+![scrambled1](./img/scrambled1.png)   ![scrambled2](./img/scrambled2.png) 
  
 
 ## How to solve it
 Write Python code that reads the image pixels and sums the corresponding pixels from both images.
 
 The code:
+```python
 import numpy as np
 from PIL import Image
 
@@ -37,8 +36,9 @@ result = iamge2np + iamge1np
 
 # Convert back to PIL image and save
 Image.fromarray(result).save('resultImage.png')
+```
 
-The result is: 
+The result is: <br>
 ![result](./img/result.png) 
  
 The challenge is solved.
