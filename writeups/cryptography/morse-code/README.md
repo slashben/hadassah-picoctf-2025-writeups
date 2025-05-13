@@ -21,7 +21,7 @@ You should see this page:<br>
 ![challenge](./util/challenge.png) 
  
 Download the audio file<br>
-[audio](./util/ morse_chal.wav)
+[audio](./util/morse_chal.wav)
 
 ## How to solve it
 To decode a Morse code audio:
