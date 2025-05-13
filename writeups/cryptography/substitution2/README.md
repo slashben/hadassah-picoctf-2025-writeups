@@ -3,13 +3,13 @@
 
 
 The link for the challenge: https://play.picoctf.org/practice/challenge/309?bookmarked=1&page=1
-![game](./img/main.PNG) 
+![game](./img/main.png) 
 Start the challenge 
 
 We get a text file
 
 
-![file](./img/message.PNG) 
+![file](./img/message.png) 
 
 Based on the name of the challange we assume a substitution cipher.
 
@@ -27,7 +27,7 @@ So i used dcode web to run on all 26 possibilities (script attached)
 and we get:
 
 
-![result](./img/cyph.PNG)
+![result](./img/cyph.png)
 
 after Decryption the text , we will get a readable text after subtract the key from the cipher letter.
 
