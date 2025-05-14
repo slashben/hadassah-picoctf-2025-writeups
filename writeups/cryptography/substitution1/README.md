@@ -82,7 +82,7 @@ The tool gave me a flag, but it was rejected. I suspected that one of the letter
 
 Here’s what the encrypted message file looked like:
 
-![Decrypted File](./img/Decrypted File_text.png)
+![Decrypted File](./img/the_decrypt.png)
 
 ---
 
