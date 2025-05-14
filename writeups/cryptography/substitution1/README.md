@@ -72,7 +72,7 @@ Here’s what the encrypted message file looked like:
 ![Decrypted File](./img/the_file.png)
 Using this method, the tool quickly found a near-complete key and readable plaintext:
 
-![Decrypted Output](./img/the_decrypt.png)
+![Decrypted Output](./img/the_dycrypt.png)
 
 ---
 
