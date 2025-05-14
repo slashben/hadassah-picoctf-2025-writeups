@@ -65,7 +65,11 @@ MCMC is a statistical method that works well for monoalphabetic substitution cip
 2. **Evaluation**: Score how English-like the decrypted text is (using bigram frequencies, etc.).
 3. **Modification**: Slightly alter the key (e.g., swap letters).
 4. **Iteration**: Repeat and keep the best scoring key.
+#  The Cipher File
+---
+Here’s what the encrypted message file looked like:
 
+![Decrypted File](./img/the_file.png)
 Using this method, the tool quickly found a near-complete key and readable plaintext:
 
 ![Decrypted Output](./img/the_decrypt.png)
@@ -76,13 +80,6 @@ Using this method, the tool quickly found a near-complete key and readable plain
 
 The tool gave me a flag, but it was rejected. I suspected that one of the letters in the key might be wrong. I noticed that the character `'j'` might actually be `'q'`, so I made the change manually — and it worked!
 
----
-
-#  The Cipher File
-
-Here’s what the encrypted message file looked like:
-
-![Decrypted File](./img/the_decrypt.png)
 
 ---
 
