@@ -20,11 +20,11 @@ You can also check the hints provided by PicoCTF:
 
 ### Hint 1
 
-![Hint 1](./img/hint1.png)
+![Hint 1](./img/hint_1.png)
 
 ### Hint 2
 
-![Hint 2](./img/hint2.png)
+![Hint 2](./img/hint_2.png)
 
 ---
 
@@ -48,10 +48,7 @@ From this, I got the initial key mappings:
 | W      | T     |
 | D      | F     |
 
-Applying these known substitutions to the ciphertext revealed parts of the plaintext. For example:
-
-![Partial Substitution](./img/partial_substitution.png)
-
+Applying these known substitutions to the ciphertext revealed parts of the plaintext. 
 ---
 
 ### Step 2: Use a Smarter Tool (dCode)
@@ -81,7 +78,7 @@ The tool gave me a flag, but it was rejected. I suspected that one of the letter
 
 ---
 
-# 📄 The Cipher File
+#  The Cipher File
 
 Here’s what the encrypted message file looked like:
 
@@ -89,16 +86,9 @@ Here’s what the encrypted message file looked like:
 
 ---
 
-# 🏁 Final Flag
+#  Final Flag
 
 ```
-picoCTF{FR3QU3NCY_4774CK5_4R3_C001_4871E6FB}
+picoCTF{FR3QU3NCY_4774CK5_4R3_C001_4871E6FB}, the challange is solved.
 ```
 
----
-
-# Conclusion
-
-- Monoalphabetic substitution ciphers are **weak** against tools that use **MCMC** and **frequency analysis**.
-- Tools like dCode can solve them in seconds.
-- This challenge was a great way to understand the limits of classical ciphers and the power of automated cryptanalysis.
