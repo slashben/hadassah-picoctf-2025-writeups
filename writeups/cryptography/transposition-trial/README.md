@@ -6,7 +6,7 @@
 **Category**: Cryptography  
 **Difficulty**: Medium  
 **Competition**: picoCTF 2022  
-**Author**: WILL HONG  
+**Author**: ishay heller   
 
 ## Problem Statement
 Our data got corrupted during transmission. While nothing was replaced, every block of 3 characters got scrambled. The first word appears to be three letters long ("heT"), which likely should be "The".
