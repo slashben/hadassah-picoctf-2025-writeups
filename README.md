@@ -31,7 +31,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Scavenger Hunt](https://play.picoctf.org/practice/challenge/161?category=1&difficulty=1&page=2) - [Alex Zhivotovsky](https://github.com/alexzhivo)
 
 ## Cryptography
-
+* [rail-fence]([https://play.picoctf.org/practice/challenge/469?category=1&difficulty=1&originalEvent=74&page=1](https://play.picoctf.org/practice/challenge/289?category=2&difficulty=2&page=2)) - [morse-code]([[https://play.picoctf.org/practice/challenge/469?category=1&difficulty=1&originalEvent=74&page=1](https://play.picoctf.org/practice/challenge/289?category=2&difficulty=2&page=2)](https://play.picoctf.org/practice/challenge/280?category=2&difficulty=2&page=2))[Daniel Dalal](https://github.com/DD309)
 * List entry
 
 ## Binary Exploitation
