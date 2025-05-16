@@ -78,7 +78,7 @@ Using this method, the tool quickly found a near-complete key and readable plain
 
 ### Final Touch: Human Adjustment
 
-The tool gave me a flag, but it was rejected. I suspected that one of the letters in the key might be wrong. I noticed that the character `'j'` might actually be `'q'`, so I made the change manually — and it worked!
+The tool gave me a flag, but it was rejected. I suspected that one of the letters in the key might be wrong. I noticed that the character `'J'` might actually be `'Q'`, so I made the change manually — and it worked!
 
 
 ---
