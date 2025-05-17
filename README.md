@@ -46,6 +46,7 @@ Here is the list of challenges we are solving and the student who solves.
 
 ## Cryptography
 
+* [Easy-Peasy](https://play.picoctf.org/practice/challenge/125?category=2&difficulty=2&page=3) & [basic-mod2](https://play.picoctf.org/practice/challenge/254?category=2&difficulty=2&page=2) - [Dima Nikonov](https://github.com/DimonFiend)
 * [john_pollard](https://play.picoctf.org/practice/challenge/6?category=2&difficulty=2&page=3) & [substitution0](https://play.picoctf.org/practice/challenge/307?category=2&difficulty=2&page=2) - [Tzach Hondiashvili](https://github.com/tzach-hondiashvili)
 * Guess My Cheese (Part 1) - [yarden_gahan](https://github.com/yardengahan)
 * [substitution2](https://play.picoctf.org/practice/challenge/309?category=2&difficulty=2&page=1) + [Mini RSA](https://play.picoctf.org/practice/challenge/188?category=2&difficulty=2&page=2) : Mousa Yousef
