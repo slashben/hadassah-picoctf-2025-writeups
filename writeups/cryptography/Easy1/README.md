@@ -32,8 +32,9 @@ However, this was incorrect. I later realized I needed to adjust my method and f
 
 Here’s the correct way to solve it:
 
-- What with an S gives me a U → C
 ![](img/first_letter.png)
+
+- What with an S gives me a U → C
 - What with an O gives me an F → R
 - What with an L gives me a J → Y
 - What with an V gives me a K → P
