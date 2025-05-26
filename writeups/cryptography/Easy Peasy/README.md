@@ -31,7 +31,7 @@ encrypt(key_location) reads user input, XORs it with the pad at the current poin
 
 3. Launch our attack
 
-We write otpAttack.py to:
+We write OTPattack.py (provided in scripts folder) to:
 
 Connect to the remote service.
 
