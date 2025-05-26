@@ -7,7 +7,7 @@ Link for the challenge: [https://picoctf2022.haydenhousen.com/cryptography/basic
 
 ## Description
 
-In this cryptography challenge you’re given a list of integers. To recover the hidden flag, you must:
+In this cryptography challenge we’re given a list of integers. To recover the hidden flag, you must:
 
 1. Take each number **mod 41**.
 2. Compute the **modular inverse** of that result modulo 41.
@@ -28,13 +28,13 @@ Visit the challenge page and read the instructions:
 
 ## 2. Inspect the input
 
-Download the provided message and examine the raw numbers in a Python REPL or terminal:
+Download the provided message and examine the raw numbers in the text file:
 
 ![Downloaded Numbers](./img/message-text.png)
 
 ## 3. Automate with Python
 
-we will use a python script (`solve_basic_mod2.py`) that reads the numbers, applies **mod 41**, computes each **modular inverse**, and maps to characters:
+we will use a python script (`inverseCalc.py`) that reads the numbers, applies **mod 41**, computes each **modular inverse**, and maps to characters:
 
 ![Python Script](./img/python-sol.png)
 
