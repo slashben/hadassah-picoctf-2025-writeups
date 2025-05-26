@@ -12,7 +12,7 @@ Solution steps
 
 Open the challenge and observe the description and connection details:
 
-    ![challange-start](./img/challange-start.png)
+![challange-start](./img/challange-start.png)
 
 
 2. Explore the provided code
@@ -24,9 +24,9 @@ startup(key_location) encrypts and prints the flag using the pad slice at key_lo
 encrypt(key_location) reads user input, XORs it with the pad at the current pointer, returns ciphertext and advances the pointer.
 
 
-    ![otp-python-1](./img/otp-python-1.png)
+![otp-python-1](./img/otp-python-1.png)
 
-    ![otp-python-2](./img/otp-python-2.png)
+![otp-python-2](./img/otp-python-2.png)
 
 
 3. Launch our attack
@@ -45,13 +45,13 @@ Reconstruct the raw pad by XORing the keystream hex with 'A'.
 
 XOR the pad bytes with the original flag ciphertext to recover the plaintext flag.
 
-    ![otp-attack-python-code](./img/otp-attack-python-code.png)
+![otp-attack-python-code](./img/otp-attack-python-code.png)
 
 4. Run the attack
 
 Execute otpAttack.py. It prints the recovered flag in the picoCTF format:
 
-    ![python-console-answer](./img/python-console-answer.png)
+![python-console-answer](./img/python-console-answer.png)
 
 
 5. Confirmation
@@ -59,11 +59,10 @@ Execute otpAttack.py. It prints the recovered flag in the picoCTF format:
 Upon submission, the platform shows success:
 
 
-
 Challenge solution key:
 
 picoCTF{7f9da29f40499a98db220380a57746a4}
 
-    ![ctf-solved](./img/ctf-solved.png)
+![ctf-solved](./img/ctf-solved.png)
 
 Easy Peasy challenge is solved, great work!
