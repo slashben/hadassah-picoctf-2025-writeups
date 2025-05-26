@@ -30,11 +30,11 @@ Visit the challenge page and read the instructions:
 
 Download the provided message and examine the raw numbers in a Python REPL or terminal:
 
-![Downloaded Numbers](./img/python-console.png)
+![Downloaded Numbers](./img/message-text.png)
 
 ## 3. Automate with Python
 
-Create a short script (`solve_basic_mod2.py`) that reads the numbers, applies **mod 41**, computes each **modular inverse**, and maps to characters:
+we will use a python script (`solve_basic_mod2.py`) that reads the numbers, applies **mod 41**, computes each **modular inverse**, and maps to characters:
 
 ![Python Script](./img/python-sol.png)
 
@@ -42,7 +42,7 @@ Create a short script (`solve_basic_mod2.py`) that reads the numbers, applies **
 
 Run the script to print the decrypted flag:
 
-![Final Flag](./img/solved.png)
+![Python Solution](./img/python-console.png)
 
 # Challenge solution key:
 
@@ -50,4 +50,5 @@ Run the script to print the decrypted flag:
 picoCTF{1nv3r53ly_h4rd_c680bdc1}
 ```
 
+![Final Flag](./img/solved.png)
 ### Challenge is solved, good job!
