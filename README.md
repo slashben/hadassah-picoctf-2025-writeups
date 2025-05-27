@@ -58,7 +58,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [basic-mod1](https://play.picoctf.org/practice/challenge/253?category=2&difficulty=2&page=2) & [Easy1](https://play.picoctf.org/practice/challenge/43?category=2&difficulty=2&page=3) - [Ibraheem Awad](https://github.com/Ibraheem-Awad)
 * [rsa_oracle](https://play.picoctf.org/practice/challenge/422?category=2&difficulty=2&originalEvent=73&page=1) & [Custom encryption](https://play.picoctf.org/practice/challenge/412?category=2&difficulty=2&originalEvent=73&page=1) - [Lara Duek](https://github.com/LaraDuek)
 * [rail-fence](https://play.picoctf.org/practice/challenge/289?category=2&difficulty=2&page=2) - [morse-code](https://play.picoctf.org/practice/challenge/280?category=2&difficulty=2&page=2) [Daniel Dalal](https://github.com/DD309)
-* [credstuff](https://play.picoctf.org/practice/challenge/261?category=2&difficulty=2&page=2) & [transposition-trial](https://play.picoctf.org/practice/challenge/312?category=2&difficulty=2&page=1) - [Idit Halevi](https://github.com/iditha)
+* [credstuff](https://play.picoctf.org/practice/challenge/261?category=2&difficulty=2&page=2) & [C3](https://play.picoctf.org/practice/challenge/407?category=2&difficulty=2&page=1) - [Idit Halevi](https://github.com/iditha)
 
 ## Binary Exploitation
 
