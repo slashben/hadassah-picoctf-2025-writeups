@@ -35,11 +35,31 @@ Here is the list of challenges we are solving and the student who solves.
 * [Local Authority](https://play.picoctf.org/practice/challenge/278?category=1&page=1 ) - [Benny Beer](https://github.com/bennyBeer)
 * [n0s4n1ty](https://play.picoctf.org/practice/challenge/482?category=1&page=1) - [Or Meir Tsarfati](https://github.com/OrMeirDev)
 * [Scavenger Hunt](https://play.picoctf.org/practice/challenge/161?category=1&difficulty=1&page=2) - [Alex Zhivotovsky](https://github.com/alexzhivo)
+* [Most Cookies](https://play.picoctf.org/practice/challenge/177?category=1&difficulty=2&page=2) - [Idit Halevi](https://github.com/iditha)
+* [where are the robots](https://play.picoctf.org/practice/challenge/4?category=1&page=2) - [mousa yousef](https://github.com/MousaYou)
+* [3v@l](https://play.picoctf.org/practice/challenge/484?category=1&difficulty=2&originalEvent=74&page=1) - [yarden_gahan](https://github.com/yardengahan)
+* [GET aHEAD](https://play.picoctf.org/practice/challenge/132?category=1&difficulty=1&page=2&search=&solved=0) - [Nicole Kazantsev](https://github.com/NicoleKaz)
+* [Trickster](https://play.picoctf.org/practice/challenge/445?category=1&page=2&search=) - [Tali Kraskin](https://github.com/Talikra)
+* [logon](https://play.picoctf.org/practice/challenge/46?category=1&page=2) - [Ibraheem Awad](https://github.com/Ibraheem-Awad)
 * [Includes](https://play.picoctf.org/practice/challenge/274?category=1&page=1)- [Raneen Salem](https://github.com/raneensalem)
+* [SOAP](https://play.picoctf.org/practice/challenge/376?category=1&page=3) - [Yousef Dweik](https://github.com/NightKing142)
 
 ## Cryptography
 
-* List entry
+* [Easy-Peasy](https://play.picoctf.org/practice/challenge/125?category=2&difficulty=2&page=3) & [basic-mod2](https://play.picoctf.org/practice/challenge/254?category=2&difficulty=2&page=2) - [Dima Nikonov](https://github.com/DimonFiend)
+* [john_pollard](https://play.picoctf.org/practice/challenge/6?category=2&difficulty=2&page=3) & [substitution0](https://play.picoctf.org/practice/challenge/307?category=2&difficulty=2&page=2) - [Tzach Hondiashvili](https://github.com/tzach-hondiashvili)
+* Guess My Cheese (Part 1) - [yarden_gahan](https://github.com/yardengahan)
+* [substitution2](https://play.picoctf.org/practice/challenge/309?category=2&difficulty=2&page=1) + [Mini RSA](https://play.picoctf.org/practice/challenge/188?category=2&difficulty=2&page=2) : Mousa Yousef
+* [No Padding, No Problem](https://play.picoctf.org/practice/challenge/154?category=2&difficulty=2&page=2&search=) & [Dachshund Attacks](https://play.picoctf.org/practice/challenge/159?category=2&page=3&search=) - [Tali Kraskin](https://github.com/Talikra)
+* [Flags](https://play.picoctf.org/practice/challenge/31?category=2&difficulty=2&page=3) & [Mr. WorldWide](https://play.picoctf.org/practice/challenge/40?category=2&difficulty=2&page=3) - [Alex Zhivotovsky](https://github.com/alexzhivo)
+* [rotation](https://play.picoctf.org/practice/challenge/373?category=2&difficulty=2&page=1) & [Mind your Ps and Qs](https://play.picoctf.org/practice/challenge/162?category=2&difficulty=2&page=2) - [sagi seri](https://github.com/sagiseri)
+* [Pixelated](https://play.picoctf.org/practice/challenge/100?category=2&difficulty=2&page=3)& [morse-code](https://play.picoctf.org/practice/challenge/280?category=2&difficulty=2&page=2) - [Or Shain](https://github.com/orshain) 
+* [substitution1](https://play.picoctf.org/practice/challenge/308?category=2&difficulty=2&page=1) & [transposition-trial](https://play.picoctf.org/practice/challenge/312?category=2&difficulty=2&page=1) - [Ishay Heller](https://github.com/ishay-code)
+* [Vigenere](https://play.picoctf.org/practice/challenge/316?category=2&difficulty=2&page=1) & [caesar](https://play.picoctf.org/practice/challenge/64?category=2&difficulty=2&page=3) - [Ilya Kirshtein](https://github.com/Ilyaki322)
+* [basic-mod1](https://play.picoctf.org/practice/challenge/253?category=2&difficulty=2&page=2) & [Easy1](https://play.picoctf.org/practice/challenge/43?category=2&difficulty=2&page=3) - [Ibraheem Awad](https://github.com/Ibraheem-Awad)
+* [rsa_oracle](https://play.picoctf.org/practice/challenge/422?category=2&difficulty=2&originalEvent=73&page=1) & [Custom encryption](https://play.picoctf.org/practice/challenge/412?category=2&difficulty=2&originalEvent=73&page=1) - [Lara Duek](https://github.com/LaraDuek)
+* [rail-fence](https://play.picoctf.org/practice/challenge/289?category=2&difficulty=2&page=2) - [morse-code](https://play.picoctf.org/practice/challenge/280?category=2&difficulty=2&page=2) [Daniel Dalal](https://github.com/DD309)
+* [Tapping](https://play.picoctf.org/practice/challenge/21?category=2&difficulty=2&page=3&search=) & [ReadMyCert](https://play.picoctf.org/practice/challenge/367?category=2&difficulty=2&page=1&search=) - [Raneen Salem](https://github.com/raneensalem)
 
 ## Binary Exploitation
 
