@@ -50,4 +50,4 @@ Now we will write some code to calculate the private key (d) and decrypt the mes
 
 the challenge is solved.
 
-The flag is: picoCTF{r0tat1on_d3crypt3d_429af00f}
+The flag is: picoCTF{sma11_N_n0_g0od_13686679}
