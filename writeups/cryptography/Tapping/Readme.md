@@ -39,6 +39,8 @@ I wrote a simple Python script to simulate `nc` (netcat) since it's not availabl
 ### Step 2: Copy the Morse code output
 
 ```
+
+
 ```
 
 ![](img/output.png)
@@ -48,7 +50,7 @@ I wrote a simple Python script to simulate `nc` (netcat) since it's not availabl
 ###  Step 3: Paste it into the decoder
 
 Use the Morse Code Decoder at:  
-🔗 (https://www.dcode.fr/morse-code)
+(https://www.dcode.fr/morse-code)
 
 ![](img/output2.png)
 
@@ -78,6 +80,6 @@ picoCTF{M0RS3C0D31SFUN1261438181}
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 This challenge demonstrated how to interact with a network socket, capture encoded Morse data, and decode it using online tools. It reinforced basic cryptography and real-time data handling skills.
