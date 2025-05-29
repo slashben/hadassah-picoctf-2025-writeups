@@ -46,6 +46,7 @@ Here is the list of challenges we are solving and the student who solves.
 
 ## Cryptography
 
+* [Easy-Peasy](https://play.picoctf.org/practice/challenge/125?category=2&difficulty=2&page=3) & [basic-mod2](https://play.picoctf.org/practice/challenge/254?category=2&difficulty=2&page=2) - [Dima Nikonov](https://github.com/DimonFiend)
 * [john_pollard](https://play.picoctf.org/practice/challenge/6?category=2&difficulty=2&page=3) & [substitution0](https://play.picoctf.org/practice/challenge/307?category=2&difficulty=2&page=2) - [Tzach Hondiashvili](https://github.com/tzach-hondiashvili)
 * Guess My Cheese (Part 1) - [yarden_gahan](https://github.com/yardengahan)
 * [substitution2](https://play.picoctf.org/practice/challenge/309?category=2&difficulty=2&page=1) + [Mini RSA](https://play.picoctf.org/practice/challenge/188?category=2&difficulty=2&page=2) : Mousa Yousef
@@ -59,7 +60,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [rsa_oracle](https://play.picoctf.org/practice/challenge/422?category=2&difficulty=2&originalEvent=73&page=1) & [Custom encryption](https://play.picoctf.org/practice/challenge/412?category=2&difficulty=2&originalEvent=73&page=1) - [Lara Duek](https://github.com/LaraDuek)
 * [rail-fence](https://play.picoctf.org/practice/challenge/289?category=2&difficulty=2&page=2) - [morse-code](https://play.picoctf.org/practice/challenge/280?category=2&difficulty=2&page=2) [Daniel Dalal](https://github.com/DD309)
 * [Mod 26](https://play.picoctf.org/practice/challenge/144?category=2&page=1) & [EVEN RSA CAN BE BROKEN???](https://play.picoctf.org/practice/challenge/470?category=2&page=1) - [BennyBeer](https://github.com/bennyBeer)
-
+* [Tapping](https://play.picoctf.org/practice/challenge/21?category=2&difficulty=2&page=3&search=) & [ReadMyCert](https://play.picoctf.org/practice/challenge/367?category=2&difficulty=2&page=1&search=) - [Raneen Salem](https://github.com/raneensalem)
 
 ## Binary Exploitation
 
