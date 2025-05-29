@@ -59,12 +59,10 @@ Given the hints pointing towards an "old" cipher and the nature of the text, the
 Once Vigenère was identified as the correct cipher (or a strong candidate to try based on the historical hint and tool output):
 * The **Vigenère cipher solver on dCode.fr** ([https://www.dcode.fr/vigenere-cipher](https://www.dcode.fr/vigenere-cipher)) was used.
 * The full encrypted message obtained from `netcat` was pasted into the ciphertext field.
-* The challenge solution often involves finding a key. For "la cifra de," the key is "caesar". This key might have been found through:
+* The challenge solution often involves finding a key. For "la cifra de," the key is "vigenere". This key might have been found through:
     * Hints within the challenge description or the ciphertext itself (though not immediately obvious here).
     * Automated key-finding features of tools like dCode.fr (which can attempt to guess key lengths and keys).
-    * Guessing common historical or challenge-related terms.
-    * (As in our prior discussion, often write-ups for known challenges will state the key if it's fixed).
-* With the ciphertext and the key "caesar" entered into dCode.fr, the tool decrypted the message.
+* With the ciphertext and the key "vigenere" entered into dCode.fr, the tool decrypted the message.
 ![decode](https://github.com/user-attachments/assets/eb179669-9a02-4e33-8f43-ef7448701d40)
 
 ### 3. The Decrypted  Flag
