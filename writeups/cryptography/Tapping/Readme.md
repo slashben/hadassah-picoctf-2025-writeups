@@ -29,18 +29,8 @@
 
 I wrote a simple Python script to simulate `nc` (netcat) since it's not available in Windows PowerShell by default.
 
-```python
-import socket
+```pyt
 
-host = "jupiter.challenges.picoctf.org"
-port = 48247
-
-s = socket.socket()
-s.connect((host, port))
-
-while True:
-    data = s.recv(1024)
-    print(data.decode(), end="")
 ```
 ![](img/paython.png)
 
