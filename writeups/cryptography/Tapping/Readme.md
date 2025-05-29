@@ -29,7 +29,7 @@
 
 I wrote a simple Python script to simulate `nc` (netcat) since it's not available in Windows PowerShell by default.
 
-```pyt
+```
 
 ```
 ![](img/paython.png)
@@ -38,9 +38,7 @@ I wrote a simple Python script to simulate `nc` (netcat) since it's not availabl
 
 ### Step 2: Copy the Morse code output
 
-Example received:
 ```
-.--. .. -.-. --- -.-. - ..-. { -- ----- .-. ... ...-- -.-. ----- -.. ...-- .---- ... ..-. ..- -. .---- ..--- -.... .---- ....- ...-- ---.. .---- ---.. .---- } 
 ```
 
 ![](img/output.png)
@@ -65,7 +63,7 @@ Decoded result:
 picoCTF{M0RS3C0D31SFUN1261438181}
 ```
 
-![](img/result.png)
+![](img/results.png)
 
 ---
 
