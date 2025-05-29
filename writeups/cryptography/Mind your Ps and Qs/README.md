@@ -25,12 +25,12 @@ You should see this:
 ## How to solve it
 Based on the description and the known cipher, we can conclude that this is RSA encryption.
 
-In the RSA encryption system:
-C – The ciphertext that needs to be decrypted.
-N – The product of two prime numbers, p and q: N = p*q
-Phi – Euler's totient function of N: ?=(p?1)*(q?1)
-d – The private key.
-E – The multiplicative inverse of d modulo phi:(mod ?)1 ? d*E
+C = ciphertext
+p and q = prime numbers
+n = p * q
+phi = (p-1) * (q-1)
+e = some number that 1 < e < phi and gcd(e,phi) == 1 
+d = e^(-1) mod phi
 
 now we need to find p and q.
 
