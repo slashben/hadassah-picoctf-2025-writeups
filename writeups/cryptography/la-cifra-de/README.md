@@ -31,7 +31,7 @@ The challenge title, "la cifra de," and the hints strongly suggested a classical
 
     **Ciphertext Received:**
     ```
-    [Paste the full ciphertext you received from the netcat connection here. For example:
+    [
     
     Ne iy nytkwpsznyg nth it mtsztcy vjzprj zfzjy rkhpibj nrkitt ltc tnnygy ysee itd tte cxjltk
     Ifrosr tnj noawde uk siyyzre, yse Bnretèwp Cousex mls hjpn xjtnbjytki xatd eisjd
