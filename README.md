@@ -65,6 +65,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [la cifra de](https://play.picoctf.org/practice/challenge/3?category=2&difficulty=2&page=3) & - [spelling-quiz](https://play.picoctf.org/practice/challenge/210?category=2&difficulty=2&page=2) - [Yousef Dweik](https://github.com/NightKing142)
 * [Mod 26](https://play.picoctf.org/practice/challenge/144?category=2&page=1) & [EVEN RSA CAN BE BROKEN???](https://play.picoctf.org/practice/challenge/470?category=2&page=1) - [BennyBeer](https://github.com/bennyBeer)
 * [Tapping](https://play.picoctf.org/practice/challenge/21?category=2&difficulty=2&page=3&search=) & [ReadMyCert](https://play.picoctf.org/practice/challenge/367?category=2&difficulty=2&page=1&search=) - [Raneen Salem](https://github.com/raneensalem)
+* [john_pollard](https://play.picoctf.org/practice/challenge/6?category=2&difficulty=2&page=3) & [Flags](https://play.picoctf.org/practice/challenge/31?category=2&difficulty=2&page=3) - [yazan kirresh](https://github.com/yazenka) 
 
 ## Binary Exploitation
 
