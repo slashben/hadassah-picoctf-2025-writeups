@@ -6,7 +6,7 @@
 
 The challenge gives us a ROT13-encrypted string. ROT13 is a Caesar cipher that shifts each letter by 13 positions in the alphabet...
 
-(המשך כמו קודם)
+
 # Mod 26
 
 This is the write-up for the challenge **"Mod 26"** from picoCTF 2021.
