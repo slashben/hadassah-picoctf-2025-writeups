@@ -1,6 +1,6 @@
 # Mod 26 - picoCTF Challenge
 
-![Challenge Screenshot](mod26.png)
+![Challenge Screenshot](Mod26.png)
 
 ## Solution
 
