@@ -97,7 +97,7 @@ m = pow(c, d, N)
 # Convert to bytes
 flag = long_to_bytes(m).decode()
 print("Decrypted flag:", flag)
-םo
+
 output:
 Decrypted flag: picoCTF{tw0_1$_pr!m378257f39}
 
