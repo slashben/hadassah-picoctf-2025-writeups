@@ -72,6 +72,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [ChaCha Slide](https://play.picoctf.org/practice/challenge/493?category=2&difficulty=3&page=1&solved=1) & [NSA Backdoor](https://play.picoctf.org/practice/challenge/283?category=2&difficulty=3&page=1&solved=1)-[Maya Avezbakiev](https://github.com/MaAvza)
 * [john_pollard](https://play.picoctf.org/practice/challenge/6?category=2&difficulty=2&page=3) & [Flags](https://play.picoctf.org/practice/challenge/31?category=2&difficulty=2&page=3) - [yazan kirresh](https://github.com/yazenka)
 * [waves over lambda](https://play.picoctf.org/practice/challenge/38category=2&difficulty=2&page=3) & [Pixelated](https://play.picoctf.org/practice/challenge/100?category=2&difficulty=2&page=3) - [ameen husseini](https://github.com/aminch-bot)
+* [interencdec](https://play.picoctf.org/practice/challenge/418?bookmarked=0&category=2&difficulty=1&page=1) & [PowerAnalysis: Warmup](https://play.picoctf.org/practice/challenge/366?bookmarked=1&category=2&page=1) - [Anael Zateikin](https://github.com/AnaelZa)
   
 ## Binary Exploitation
 
