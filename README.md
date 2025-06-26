@@ -76,4 +76,4 @@ Here is the list of challenges we are solving and the student who solves.
   
 ## Binary Exploitation
 
-* List entry
+* [Echo Valley](https://play.picoctf.org/practice/challenge/485?category=6&difficulty=2&page=1&search=) - [Tali Kraskin](https://github.com/Talikra)
