@@ -65,8 +65,9 @@ Here is the list of challenges we are solving and the student who solves.
 * [Mod 26](https://play.picoctf.org/practice/challenge/144?category=2&page=1) & [EVEN RSA CAN BE BROKEN???](https://play.picoctf.org/practice/challenge/470?category=2&page=1) - [BennyBeer](https://github.com/bennyBeer)
 * [Tapping](https://play.picoctf.org/practice/challenge/21?category=2&difficulty=2&page=3&search=) & [ReadMyCert](https://play.picoctf.org/practice/challenge/367?category=2&difficulty=2&page=1&search=) - [Raneen Salem](https://github.com/raneensalem)
 
+## Binary Exploitation
+
+* List entry
+
 ## Forensics
 * [Matryoshka doll](https://play.picoctf.org/practice/challenge/129?category=4&difficulty=2&page=3) - [Roni Cohen](https://github.com/ronicohe)
-
-## Binary Exploitation
-* List entry
