@@ -66,5 +66,5 @@ Here is the list of challenges we are solving and the student who solves.
 * [Tapping](https://play.picoctf.org/practice/challenge/21?category=2&difficulty=2&page=3&search=) & [ReadMyCert](https://play.picoctf.org/practice/challenge/367?category=2&difficulty=2&page=1&search=) - [Raneen Salem](https://github.com/raneensalem)
 
 ## Binary Exploitation
+* [PIE TIME](https://play.picoctf.org/practice/challenge/490?category=6&difficulty=1&page=1) - [Roni Cohen](https://github.com/ronicohe)
 
-* List entry
