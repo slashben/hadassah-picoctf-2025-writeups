@@ -76,6 +76,14 @@ Here is the list of challenges we are solving and the student who solves.
   
 ## Binary Exploitation
 
-* List entry
+* [buffer overflow 2](https://play.picoctf.org/practice/challenge/259?category=6&difficulty=2&page=2) - [Daniel Dalal](https://github.com/DD309)
 * [heap 3](https://play.picoctf.org/practice/challenge/440?category=6&page=1) - [sagi seri](https://github.com/sagiseri)
+* [PIE TIME 2](https://play.picoctf.org/practice/challenge/491?difficulty=2&originalEvent=74&page=1) - [Tzach Hondiashvili](https://github.com/tzach-hondiashvili)
+* [Echo Valley](https://play.picoctf.org/practice/challenge/485?category=6&difficulty=2&page=1&search=) - [Tali Kraskin](https://github.com/Talikra)
+* [heap 1](https://play.picoctf.org/practice/challenge/439?category=6&difficulty=2&page=1) - [Idit Halevi](https://github.com/iditha)
 
+## Forensics
+
+* [Matryoshka doll](https://play.picoctf.org/practice/challenge/129?category=4&difficulty=2&page=3) - [Roni Cohen](https://github.com/ronicohe)
+* [ASCII Numbers](https://play.picoctf.org/practice/challenge/390?category=5&page=4) - [Yael Hubara]
+* Mob psycho - [yarden_gahan](https://github.com/yardengahan)
