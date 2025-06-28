@@ -77,3 +77,4 @@ Here is the list of challenges we are solving and the student who solves.
 ## Binary Exploitation
 
 * List entry
+* [PIE TIME 2](https://play.picoctf.org/practice/challenge/491?difficulty=2&originalEvent=74&page=1) - [Tzach Hondiashvili](https://github.com/tzach-hondiashvili)
