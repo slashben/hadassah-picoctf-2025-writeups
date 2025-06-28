@@ -61,5 +61,6 @@ Here is the list of challenges we are solving and the student who solves.
 
 
 ## Binary Exploitation
+* [buffer overflow 2](https://play.picoctf.org/practice/challenge/259?category=6&difficulty=2&page=2) - [Daniel Dalal](https://github.com/DD309)
 
 * List entry
