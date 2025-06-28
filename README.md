@@ -76,6 +76,7 @@ Here is the list of challenges we are solving and the student who solves.
   
 ## Binary Exploitation
 
+* [PIE TIME 2](https://play.picoctf.org/practice/challenge/491?difficulty=2&originalEvent=74&page=1) - [Tzach Hondiashvili](https://github.com/tzach-hondiashvili)
 * [Echo Valley](https://play.picoctf.org/practice/challenge/485?category=6&difficulty=2&page=1&search=) - [Tali Kraskin](https://github.com/Talikra)
 * [heap 1](https://play.picoctf.org/practice/challenge/439?category=6&difficulty=2&page=1) - [Idit Halevi](https://github.com/iditha)
 
