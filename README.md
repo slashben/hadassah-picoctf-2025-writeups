@@ -77,3 +77,6 @@ Here is the list of challenges we are solving and the student who solves.
 ## Binary Exploitation
 
 * List entry
+
+## Forensics
+Mob psycho - [yarden_gahan](https://github.com/yardengahan)
