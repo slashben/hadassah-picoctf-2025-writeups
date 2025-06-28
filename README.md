@@ -77,3 +77,9 @@ Here is the list of challenges we are solving and the student who solves.
 ## Binary Exploitation
 
 * [Echo Valley](https://play.picoctf.org/practice/challenge/485?category=6&difficulty=2&page=1&search=) - [Tali Kraskin](https://github.com/Talikra)
+* [heap 1](https://play.picoctf.org/practice/challenge/439?category=6&difficulty=2&page=1) - [Idit Halevi](https://github.com/iditha)
+
+## Forensics
+
+* [Matryoshka doll](https://play.picoctf.org/practice/challenge/129?category=4&difficulty=2&page=3) - [Roni Cohen](https://github.com/ronicohe)
+* [ASCII Numbers](https://play.picoctf.org/practice/challenge/390?category=5&page=4) - [Yael Hubara]

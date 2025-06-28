@@ -8,7 +8,7 @@
 
 [Challenge link](https://play.picoctf.org/practice/challenge/43?category=2&difficulty=2&page=3)
 
-![Challenge Page Screenshot](screenshot.png)
+![Challenge Page Screenshot](img/screenshot.png)
 
 > The one time pad can be cryptographically secure, but not when you know the key.  
 > Can you solve this?  
