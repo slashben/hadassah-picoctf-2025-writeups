@@ -56,5 +56,5 @@ Here is the list of challenges we are solving and the student who solves.
 * [substitution1](https://play.picoctf.org/practice/challenge/308?category=2&difficulty=2&page=1) & [transposition-trial](https://play.picoctf.org/practice/challenge/312?category=2&difficulty=2&page=1) - [Ishay Heller](https://github.com/ishay-code)
 
 ## Binary Exploitation
-
+[hash-only-1](https://play.picoctf.org/practice/challenge/487?category=6&difficulty=2&originalEvent=74&page=1) - [Ishay Heller]([https://github.com/sagiseri](https://github.com/ishay-code))
 * List entry
