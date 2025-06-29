@@ -88,3 +88,4 @@ Here is the list of challenges we are solving and the student who solves.
 * [Matryoshka doll](https://play.picoctf.org/practice/challenge/129?category=4&difficulty=2&page=3) - [Roni Cohen](https://github.com/ronicohe)
 * [ASCII Numbers](https://play.picoctf.org/practice/challenge/390?category=5&page=4) - [Yael Hubara]
 * Mob psycho - [yarden_gahan](https://github.com/yardengahan)
+* [WhitePages](https://play.picoctf.org/practice/challenge/51?category=4&difficulty=2&page=4&solved=1)-[Maya Avezbakiev](https://github.com/MaAvza)
