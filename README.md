@@ -93,4 +93,5 @@ Here is the list of challenges we are solving and the student who solves.
 * [ASCII Numbers](https://play.picoctf.org/practice/challenge/390?category=5&page=4) - [Yael Hubara]
 * Mob psycho - [yarden_gahan](https://github.com/yardengahan)
 * [WhitePages](https://play.picoctf.org/practice/challenge/51?category=4&difficulty=2&page=4&solved=1)-[Maya Avezbakiev](https://github.com/MaAvza)
+* [Event-Viewing](https://play.picoctf.org/practice/challenge/456?category=4&difficulty=2&originalEvent=74&page=1) - [Or Shain](https://github.com/orshain)
 * [Enhance!](https://play.picoctf.org/practice/challenge/265?category=4&difficulty=2&page=2) - [Alex Zhivotovsky](https://github.com/alexzhivo)
