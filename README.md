@@ -45,6 +45,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [SOAP](https://play.picoctf.org/practice/challenge/376?category=1&page=3) - [Yousef Dweik](https://github.com/NightKing142)
 * [No Sql Injection](https://play.picoctf.org/practice/challenge/443?category=1&difficulty=2&page=1) - [yazan kirresh](https://github.com/yazenka)
 * [WebSockFish](https://play.picoctf.org/practice/challenge/480?category=1&difficulty=2&page=1) - [ameen husseine](https://github.com/aminch-bot)
+* [Power Cookie](https://play.picoctf.org/practice/challenge/288?bookmarked=1&category=1&difficulty=2&page=1&search=): [Anael Zateikin](https://github.com/AnaelZa)
 
 ## Cryptography
 
