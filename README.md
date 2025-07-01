@@ -83,6 +83,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Echo Valley](https://play.picoctf.org/practice/challenge/485?category=6&difficulty=2&page=1&search=) - [Tali Kraskin](https://github.com/Talikra)
 * [heap 1](https://play.picoctf.org/practice/challenge/439?category=6&difficulty=2&page=1) - [Idit Halevi](https://github.com/iditha)
 * [hash-only-2](https://play.picoctf.org/practice/challenge/489?category=6&difficulty=2&page=1) - [Mousa Yousef](https://github.com/MousaYou)
+* [basic-file-exploit](https://play.picoctf.org/practice/challenge/252?category=6&difficulty=2&page=2) - [Alex Zhivotovsky](https://github.com/alexzhivo)
 * [VNE](https://play.picoctf.org/practice/challenge/387?category=6&difficulty=2&page=2) - [Raneen Salem](https://github.com/raneensalem)
 * [two-sum](https://play.picoctf.org/practice/challenge/382?category=6&difficulty=2&page=2) - [Ibraheem Awad](https://github.com/Ibraheem-Awad)
 
@@ -92,3 +93,4 @@ Here is the list of challenges we are solving and the student who solves.
 * [ASCII Numbers](https://play.picoctf.org/practice/challenge/390?category=5&page=4) - [Yael Hubara]
 * Mob psycho - [yarden_gahan](https://github.com/yardengahan)
 * [WhitePages](https://play.picoctf.org/practice/challenge/51?category=4&difficulty=2&page=4&solved=1)-[Maya Avezbakiev](https://github.com/MaAvza)
+* [Enhance!](https://play.picoctf.org/practice/challenge/265?category=4&difficulty=2&page=2) - [Alex Zhivotovsky](https://github.com/alexzhivo)
