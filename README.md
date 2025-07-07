@@ -19,7 +19,7 @@ See [here](https://github.com/slashben/hadassah-picoctf-2024-writeups) how it wo
 
 # Who is doing what?
 
-Here is the list of challenges we are solving and the student who solves.
+- Mohamed – Chronohack (Reverse Engineering)
 
 ## Web exploitation
 
