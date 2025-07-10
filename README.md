@@ -74,6 +74,7 @@ See [here](https://github.com/slashben/hadassah-picoctf-2024-writeups) how it wo
 * [john_pollard](https://play.picoctf.org/practice/challenge/6?category=2&difficulty=2&page=3) & [Flags](https://play.picoctf.org/practice/challenge/31?category=2&difficulty=2&page=3) - [yazan kirresh](https://github.com/yazenka)
 * [waves over lambda](https://play.picoctf.org/practice/challenge/38category=2&difficulty=2&page=3) & [Pixelated](https://play.picoctf.org/practice/challenge/100?category=2&difficulty=2&page=3) - [ameen husseini](https://github.com/aminch-bot)
 * [interencdec](https://play.picoctf.org/practice/challenge/418?bookmarked=0&category=2&difficulty=1&page=1) & [PowerAnalysis: Warmup](https://play.picoctf.org/practice/challenge/366?bookmarked=1&category=2&page=1) - [Anael Zateikin](https://github.com/AnaelZa)
+* [XtraORdinary](https://play.picoctf.org/practice/challenge/208?assigned=0&category=2&difficulty=3&page=1&retired=0&search=xtr) - [Bashar Masalha](https://github.com/basharmasalha)
   
 ## Binary Exploitation
 
