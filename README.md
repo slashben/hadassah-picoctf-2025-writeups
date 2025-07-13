@@ -46,6 +46,7 @@ See [here](https://github.com/slashben/hadassah-picoctf-2024-writeups) how it wo
 * [No Sql Injection](https://play.picoctf.org/practice/challenge/443?category=1&difficulty=2&page=1) - [yazan kirresh](https://github.com/yazenka)
 * [WebSockFish](https://play.picoctf.org/practice/challenge/480?category=1&difficulty=2&page=1) - [ameen husseine](https://github.com/aminch-bot)
 * [Power Cookie](https://play.picoctf.org/practice/challenge/288?bookmarked=1&category=1&difficulty=2&page=1&search=): [Anael Zateikin](https://github.com/AnaelZa)
+* [n0s4n1ty 1](https://play.picoctf.org/practice/challenge/482?assigned=0&category=1&page=1&retired=0&search=n0) - [Bashar Masalha](https://github.com/basharmasalha)
 
 ## Cryptography
 
