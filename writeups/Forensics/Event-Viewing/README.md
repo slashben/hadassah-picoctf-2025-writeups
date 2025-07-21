@@ -14,10 +14,10 @@ The link of the challenge: https://play.picoctf.org/practice/challenge/456
 Go into the link.
 You should see this page:
  
-![challenge](./util/challenge.png) 
+![challenge](./challenge.png) 
  
-Download the audio file
-![Windows_Logs](./util/Windows_Logs.evtx)
+Download the logs file
+![Windows_Logs](./Windows_Logs.evtx)
 
 ## How to solve it
 I performed a manual scan of the log file and organized the events in the following order:
