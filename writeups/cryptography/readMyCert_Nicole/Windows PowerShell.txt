@@ -1,0 +1,56 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\nicol> C:\Users\nicol\OneDrive\Desktop\school\security\ex2\readmycert.csr
+PS C:\Users\nicol> & "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" req -in "C:\Users\nicol\OneDrive\Desktop\school\security\ex2\readmycert.csr" -noout -text
+Certificate Request:
+    Data:
+        Version: 1 (0x0)
+        Subject: CN=picoCTF{read_mycert_373b4ab0}, name=ctfPlayer
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:aa:fe:01:3a:09:83:f4:d5:4e:f7:dd:f5:7c:d8:
+                    47:48:02:e5:33:97:6b:6f:93:db:88:23:13:c9:fb:
+                    48:7a:b2:9e:ea:34:66:57:f2:a0:2a:99:1e:4c:4b:
+                    85:ae:10:66:cc:e8:c3:83:3e:92:53:fd:7d:ed:61:
+                    cb:dd:0b:01:4d:9e:9d:01:84:2e:b1:77:38:5e:52:
+                    6c:d2:15:9c:fa:bd:ee:aa:d2:1c:d2:3b:0f:d7:da:
+                    01:db:01:aa:f7:b3:0a:da:35:32:e3:2b:44:3d:f9:
+                    83:08:50:3e:06:b7:5a:86:e4:31:d6:c9:74:3c:2e:
+                    06:97:a6:fd:39:77:92:8d:d8:f6:cc:6a:da:70:05:
+                    72:63:0d:3e:3e:34:18:bb:42:7d:6e:79:3b:c0:30:
+                    9f:6b:8d:e6:01:99:7b:e3:70:d8:0a:d4:f4:06:05:
+                    89:d3:ed:15:98:c1:a2:f1:ef:ec:15:49:cf:95:e5:
+                    85:18:6e:a2:20:40:2d:91:12:f6:48:1f:3b:28:b0:
+                    66:b7:09:61:90:89:87:d7:09:cf:77:7e:9f:6a:e8:
+                    33:20:18:30:cf:d5:64:88:e5:d1:a6:6a:49:d3:8f:
+                    78:66:33:b3:71:8f:a7:f8:c5:92:ef:0a:34:19:fe:
+                    9a:3c:b2:c3:41:f5:bd:19:eb:2b:58:64:34:a5:eb:
+                    5c:e7
+                Exponent: 65537 (0x10001)
+        Attributes:
+            Requested Extensions:
+                X509v3 Extended Key Usage:
+                    TLS Web Client Authentication
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        6d:1c:e9:e7:79:6b:9c:c7:53:92:1e:23:52:81:be:11:9a:fb:
+        31:a5:ad:b9:b8:94:64:27:1a:82:3c:c3:09:6b:e9:53:7a:bf:
+        4e:ff:04:6a:70:59:f8:63:25:ab:40:39:0d:ed:c5:3e:4e:c4:
+        3a:cc:e4:0f:1c:6b:1a:60:19:45:e6:6a:df:82:ff:d5:c2:49:
+        08:11:03:e2:5c:91:29:37:ad:de:96:cf:ba:d8:46:e2:ac:9f:
+        27:07:cd:52:30:ca:f2:20:49:d8:cc:e7:f4:4a:45:d6:07:c8:
+        5a:98:1c:fa:3d:4d:fd:5f:4e:16:d5:d2:dc:90:fa:4a:f4:b6:
+        6b:0e:e9:9b:9a:2a:0c:83:4b:1b:64:cb:85:39:d5:7c:d2:07:
+        22:b2:80:73:93:3a:2f:95:93:35:af:9f:be:1a:3a:06:de:94:
+        11:4c:cf:ed:ef:c5:a4:47:5b:ce:69:7b:dd:e3:37:a1:af:73:
+        e1:f0:63:35:05:8d:af:d2:65:76:8d:f7:9b:0d:46:17:2a:db:
+        44:9b:3a:68:38:af:6a:47:52:0d:0b:7e:cf:f4:10:7a:83:4a:
+        0e:89:b4:a2:2d:a9:99:90:50:d8:54:43:b8:e6:2f:a3:ed:52:
+        94:10:96:4c:25:7c:c9:84:8a:34:67:be:52:04:a8:10:24:49:
+        ba:3a:dd:74
+PS C:\Users\nicol>
