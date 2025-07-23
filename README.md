@@ -90,6 +90,7 @@ See [here](https://github.com/slashben/hadassah-picoctf-2024-writeups) how it wo
 * [VNE](https://play.picoctf.org/practice/challenge/387?category=6&difficulty=2&page=2) - [Raneen Salem](https://github.com/raneensalem)
 * [two-sum](https://play.picoctf.org/practice/challenge/382?category=6&difficulty=2&page=2) - [Ibraheem Awad](https://github.com/Ibraheem-Awad)
 * [RPS](https://play.picoctf.org/practice/challenge/293?category=6&difficulty=2&page=2) - [Ilya Kirshtein](https://github.com/Ilyaki322)
+* [Picker IV](https://play.picoctf.org/practice/challenge/403) - [Dima Nikonov](https://github.com/DimonFiend)
 
 ## Forensics
 
