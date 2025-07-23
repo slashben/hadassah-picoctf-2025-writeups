@@ -99,3 +99,4 @@ See [here](https://github.com/slashben/hadassah-picoctf-2024-writeups) how it wo
 * [WhitePages](https://play.picoctf.org/practice/challenge/51?category=4&difficulty=2&page=4&solved=1)-[Maya Avezbakiev](https://github.com/MaAvza)
 * [Event-Viewing](https://play.picoctf.org/practice/challenge/456?category=4&difficulty=2&originalEvent=74&page=1) - [Or Shain](https://github.com/orshain)
 * [Enhance!](https://play.picoctf.org/practice/challenge/265?category=4&difficulty=2&page=2) - [Alex Zhivotovsky](https://github.com/alexzhivo)
+* [flags are stepic](https://play.picoctf.org/practice/challenge/481?category=4&page=1) - [yazan kirresh](https://github.com/yazenka)
