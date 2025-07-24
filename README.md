@@ -76,6 +76,7 @@ See [here](https://github.com/slashben/hadassah-picoctf-2024-writeups) how it wo
 * [waves over lambda](https://play.picoctf.org/practice/challenge/38category=2&difficulty=2&page=3) & [Pixelated](https://play.picoctf.org/practice/challenge/100?category=2&difficulty=2&page=3) - [ameen husseini](https://github.com/aminch-bot)
 * [interencdec](https://play.picoctf.org/practice/challenge/418?bookmarked=0&category=2&difficulty=1&page=1) & [Rotation](https://play.picoctf.org/practice/challenge/373?bookmarked=0&category=2&page=1&search=rotation) - [Anael Zateikin](https://github.com/AnaelZa)
 * [XtraORdinary](https://play.picoctf.org/practice/challenge/208?assigned=0&category=2&difficulty=3&page=1&retired=0&search=xtr) - [Bashar Masalha](https://github.com/basharmasalha)
+* [Rotation](https://play.picoctf.org/practice/challenge/373?bookmarked=0&category=2&page=1&search=rotation) & [ReadMyCert](https://play.picoctf.org/practice/challenge/367?category=2&difficulty=2&page=1) - [Nicole Kazantsev](https://github.com/NicoleKaz)
   
 ## Binary Exploitation
 
@@ -90,6 +91,7 @@ See [here](https://github.com/slashben/hadassah-picoctf-2024-writeups) how it wo
 * [VNE](https://play.picoctf.org/practice/challenge/387?category=6&difficulty=2&page=2) - [Raneen Salem](https://github.com/raneensalem)
 * [two-sum](https://play.picoctf.org/practice/challenge/382?category=6&difficulty=2&page=2) - [Ibraheem Awad](https://github.com/Ibraheem-Awad)
 * [RPS](https://play.picoctf.org/practice/challenge/293?category=6&difficulty=2&page=2) - [Ilya Kirshtein](https://github.com/Ilyaki322)
+* [Picker IV](https://play.picoctf.org/practice/challenge/403) - [Dima Nikonov](https://github.com/DimonFiend)
 
 ## Forensics
 
@@ -100,4 +102,4 @@ See [here](https://github.com/slashben/hadassah-picoctf-2024-writeups) how it wo
 * [Event-Viewing](https://play.picoctf.org/practice/challenge/456?category=4&difficulty=2&originalEvent=74&page=1) - [Or Shain](https://github.com/orshain)
 * [Enhance!](https://play.picoctf.org/practice/challenge/265?category=4&difficulty=2&page=2) - [Alex Zhivotovsky](https://github.com/alexzhivo)
 * [endianness-v2](https://play.picoctf.org/practice?category=4&difficulty=2&originalEvent=73&page=1) - [Roey Yonayov](https://github.com/roey19630)
-
+* [flags are stepic](https://play.picoctf.org/practice/challenge/481?category=4&page=1) - [yazan kirresh](https://github.com/yazenka)
