@@ -103,3 +103,8 @@ See [here](https://github.com/slashben/hadassah-picoctf-2024-writeups) how it wo
 * [Enhance!](https://play.picoctf.org/practice/challenge/265?category=4&difficulty=2&page=2) - [Alex Zhivotovsky](https://github.com/alexzhivo)
 * [endianness-v2](https://play.picoctf.org/practice?category=4&difficulty=2&originalEvent=73&page=1) - [Roey Yonayov](https://github.com/roey19630)
 * [flags are stepic](https://play.picoctf.org/practice/challenge/481?category=4&page=1) - [yazan kirresh](https://github.com/yazenka)
+
+## General Skills
+* [YaraRules0x100](https://play.picoctf.org/practice?category=5&difficulty=2&originalEvent=74&page=1) - [Roey Yonayov](https://github.com/roey19630)
+* [PW Crack 5](https://play.picoctf.org/practice/challenge/249?category=5&difficulty=2&page=1) - [Lara Duek](https://github.com/LaraDuek)
+
