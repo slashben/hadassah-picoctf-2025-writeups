@@ -19,7 +19,6 @@ See [here](https://github.com/slashben/hadassah-picoctf-2024-writeups) how it wo
 
 # Who is doing what?
 
-- Mohamed – Chronohack (Reverse Engineering)
 
 ## Web exploitation
 
@@ -104,8 +103,14 @@ See [here](https://github.com/slashben/hadassah-picoctf-2024-writeups) how it wo
 * [endianness-v2](https://play.picoctf.org/practice?category=4&difficulty=2&originalEvent=73&page=1) - [Roey Yonayov](https://github.com/roey19630)
 * [flags are stepic](https://play.picoctf.org/practice/challenge/481?category=4&page=1) - [yazan kirresh](https://github.com/yazenka)
 * [MSB](https://play.picoctf.org/practice/challenge/359?category=4&difficulty=2&page=1) - [Yousef Dweik](https://github.com/NightKing142)
+* [Wireshark twoo twooo two twoo](https://play.picoctf.org/practice/challenge/110?assigned=0&category=4&difficulty=2&page=3)- [Nicole Kazantsev](https://github.com/NicoleKaz)
+
 
 ## General Skills
 * [YaraRules0x100](https://play.picoctf.org/practice?category=5&difficulty=2&originalEvent=74&page=1) - [Roey Yonayov](https://github.com/roey19630)
 * [PW Crack 5](https://play.picoctf.org/practice/challenge/249?category=5&difficulty=2&page=1) - [Lara Duek](https://github.com/LaraDuek)
 
+
+## Reverse Engineering
+* Mohamed – Chronohack (Reverse Engineering)
+* [Reverse](https://play.picoctf.org/practice/challenge/372?assigned=0&category=3&difficulty=2&page=3) - [Nicole Kazantsev](https://github.com/NicoleKaz)
