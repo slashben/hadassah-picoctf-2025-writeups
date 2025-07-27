@@ -94,6 +94,7 @@ See [here](https://github.com/slashben/hadassah-picoctf-2024-writeups) how it wo
 * [Picker IV](https://play.picoctf.org/practice/challenge/403) - [Dima Nikonov](https://github.com/DimonFiend)
 * [babygame01](https://play.picoctf.org/practice?category=6&difficulty=2&page=2) - [Anael Zateikin](https://github.com/AnaelZa)
 * [Local Target](https://play.picoctf.org/practice/challenge/399?category=6&difficulty=2&page=1&search=) - [yazan kirresh](https://github.com/yazenka)
+* [buffer overflow 0](https://play.picoctf.org/practice/challenge/257?assigned=0&page=1&retired=0&search=buffer) - [basharmasalha](https://github.com/basharmasalha)
 
 ## Forensics
 
