@@ -91,6 +91,9 @@ See [here](https://github.com/slashben/hadassah-picoctf-2024-writeups) how it wo
 * [two-sum](https://play.picoctf.org/practice/challenge/382?category=6&difficulty=2&page=2) - [Ibraheem Awad](https://github.com/Ibraheem-Awad)
 * [RPS](https://play.picoctf.org/practice/challenge/293?category=6&difficulty=2&page=2) - [Ilya Kirshtein](https://github.com/Ilyaki322)
 * [Picker IV](https://play.picoctf.org/practice/challenge/403) - [Dima Nikonov](https://github.com/DimonFiend)
+* [babygame01](https://play.picoctf.org/practice?category=6&difficulty=2&page=2) - [Anael Zateikin](https://github.com/AnaelZa)
+* [Local Target](https://play.picoctf.org/practice/challenge/399?category=6&difficulty=2&page=1&search=) - [yazan kirresh](https://github.com/yazenka)
+* [buffer overflow 0](https://play.picoctf.org/practice/challenge/257?assigned=0&page=1&retired=0&search=buffer) - [basharmasalha](https://github.com/basharmasalha)
 
 ## Forensics
 
@@ -110,7 +113,7 @@ See [here](https://github.com/slashben/hadassah-picoctf-2024-writeups) how it wo
 * [YaraRules0x100](https://play.picoctf.org/practice?category=5&difficulty=2&originalEvent=74&page=1) - [Roey Yonayov](https://github.com/roey19630)
 * [PW Crack 5](https://play.picoctf.org/practice/challenge/249?category=5&difficulty=2&page=1) - [Lara Duek](https://github.com/LaraDuek)
 
-
 ## Reverse Engineering
 * Mohamed – Chronohack (Reverse Engineering)
 * [Reverse](https://play.picoctf.org/practice/challenge/372?assigned=0&category=3&difficulty=2&page=3) - [Nicole Kazantsev](https://github.com/NicoleKaz)
+* [ASCII Numbers]([https://play.picoctf.org/practice/challenge/481?category=4&page=1](https://play.picoctf.org/practice/challenge/390?category=5&difficulty=2&page=1&search=)) - [yazan kirresh](https://github.com/yazenka)
